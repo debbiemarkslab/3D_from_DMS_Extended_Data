@@ -1,0 +1,49 @@
+assign (resid 177 and name CH2) (resid 191 and name OD1)  3 1 1 ! TRP ASN
+assign (resid 188 and name OH) (resid 200 and name OE1)  3 1 1 ! TYR GLN
+assign (resid 173 and name CD1) (resid 191 and name OD1)  3 1 1 ! LEU ASN
+assign (resid 173 and name CD1) (resid 189 and name CZ)  3 1 1 ! LEU PHE
+assign (resid 177 and name CH2) (resid 200 and name OE1)  3 1 1 ! TRP GLN
+assign (resid 188 and name OH) (resid 203 and name NH1)  3 1 1 ! TYR ARG
+assign (resid 191 and name OD1) (resid 203 and name NH1)  3 1 1 ! ASN ARG
+assign (resid 186 and name OE1) (resid 202 and name CG)  3 1 1 ! GLN PRO
+assign (resid 180 and name CB) (resid 191 and name OD1)  3 1 1 ! ALA ASN
+assign (resid 177 and name CH2) (resid 197 and name OG1)  3 1 1 ! TRP THR
+assign (resid 173 and name CD1) (resid 202 and name CG)  3 1 1 ! LEU PRO
+assign (resid 176 and name CA) (resid 188 and name OH)  3 1 1 ! GLY TYR
+assign (resid 173 and name CD1) (resid 180 and name CB)  3 1 1 ! LEU ALA
+assign (resid 188 and name OH) (resid 197 and name OG1)  3 1 1 ! TYR THR
+assign (resid 177 and name CH2) (resid 192 and name CE1)  3 1 1 ! TRP HIS
+assign (resid 190 and name CD1) (resid 203 and name NH1)  3 1 1 ! LEU ARG
+assign (resid 187 and name NH1) (resid 202 and name CG)  3 1 1 ! ARG PRO
+assign (resid 192 and name CE1) (resid 202 and name CG)  3 1 1 ! HIS PRO
+assign (resid 176 and name CA) (resid 191 and name OD1)  3 1 1 ! GLY ASN
+assign (resid 182 and name OG1) (resid 202 and name CG)  3 1 1 ! THR PRO
+assign (resid 172 and name CG) (resid 180 and name CB)  3 1 1 ! PRO ALA
+assign (resid 177 and name CH2) (resid 189 and name CZ)  3 1 1 ! TRP PHE
+assign (resid 177 and name CH2) (resid 186 and name OE1)  3 1 1 ! TRP GLN
+assign (resid 189 and name CZ) (resid 203 and name NH1)  3 1 1 ! PHE ARG
+assign (resid 177 and name CH2) (resid 188 and name OH)  3 1 1 ! TRP TYR
+assign (resid 181 and name NZ) (resid 202 and name CG)  3 1 1 ! LYS PRO
+assign (resid 177 and name CH2) (resid 196 and name OG1)  3 1 1 ! TRP THR
+assign (resid 174 and name CG) (resid 192 and name CE1)  3 1 1 ! PRO HIS
+assign (resid 175 and name CB) (resid 182 and name OG1)  3 1 1 ! ALA THR
+assign (resid 191 and name OD1) (resid 197 and name OG1)  3 1 1 ! ASN THR
+assign (resid 185 and name CA) (resid 195 and name OE1)  3 1 1 ! GLY GLN
+assign (resid 170 and name OD1) (resid 202 and name CG)  3 1 1 ! ASP PRO
+assign (resid 177 and name CH2) (resid 185 and name CA)  3 1 1 ! TRP GLY
+assign (resid 180 and name CB) (resid 197 and name OG1)  3 1 1 ! ALA THR
+assign (resid 174 and name CG) (resid 202 and name CG)  3 1 1 ! PRO PRO
+assign (resid 177 and name CH2) (resid 201 and name OD1)  3 1 1 ! TRP ASP
+assign (resid 182 and name OG1) (resid 196 and name OG1)  3 1 1 ! THR THR
+assign (resid 180 and name CB) (resid 198 and name OG1)  3 1 1 ! ALA THR
+assign (resid 196 and name OG1) (resid 202 and name CG)  3 1 1 ! THR PRO
+assign (resid 177 and name N) (resid 191 and name O)  3 0.5 0.5 ! beta
+assign (resid 179 and name N) (resid 189 and name O)  3 0.5 0.5 ! beta
+assign (resid 181 and name N) (resid 187 and name O)  3 0.5 0.5 ! beta
+assign (resid 177 and name O) (resid 191 and name N)  3 0.5 0.5 ! beta
+assign (resid 179 and name O) (resid 189 and name N)  3 0.5 0.5 ! beta
+assign (resid 181 and name O) (resid 187 and name N)  3 0.5 0.5 ! beta
+assign (resid 188 and name N) (resid 199 and name O)  3 0.5 0.5 ! beta
+assign (resid 190 and name N) (resid 197 and name O)  3 0.5 0.5 ! beta
+assign (resid 188 and name O) (resid 199 and name N)  3 0.5 0.5 ! beta
+assign (resid 190 and name O) (resid 197 and name N)  3 0.5 0.5 ! beta

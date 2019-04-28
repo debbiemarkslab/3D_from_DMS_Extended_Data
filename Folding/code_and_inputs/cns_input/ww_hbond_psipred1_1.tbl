@@ -1,0 +1,10 @@
+assign (resid 177 and name N) (resid 191 and name O)  3 0.5 0.5 ! beta
+assign (resid 179 and name N) (resid 189 and name O)  3 0.5 0.5 ! beta
+assign (resid 181 and name N) (resid 187 and name O)  3 0.5 0.5 ! beta
+assign (resid 177 and name O) (resid 191 and name N)  3 0.5 0.5 ! beta
+assign (resid 179 and name O) (resid 189 and name N)  3 0.5 0.5 ! beta
+assign (resid 181 and name O) (resid 187 and name N)  3 0.5 0.5 ! beta
+assign (resid 188 and name N) (resid 199 and name O)  3 0.5 0.5 ! beta
+assign (resid 190 and name N) (resid 197 and name O)  3 0.5 0.5 ! beta
+assign (resid 188 and name O) (resid 199 and name N)  3 0.5 0.5 ! beta
+assign (resid 190 and name O) (resid 197 and name N)  3 0.5 0.5 ! beta

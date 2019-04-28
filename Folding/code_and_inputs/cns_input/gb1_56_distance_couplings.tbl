@@ -1,0 +1,76 @@
+assign (resid 280 and name CG1) (resid 267 and name CA)  3 1 1 ! VAL GLY
+assign (resid 259 and name OH) (resid 233 and name CD1)  3 1 1 ! TYR LEU
+assign (resid 280 and name CG1) (resid 265 and name CG1)  3 1 1 ! VAL VAL
+assign (resid 265 and name CG1) (resid 233 and name CD1)  3 1 1 ! VAL LEU
+assign (resid 259 and name OH) (resid 231 and name CD1)  3 1 1 ! TYR LEU
+assign (resid 267 and name CA) (resid 241 and name OE1)  3 1 1 ! GLY GLU
+assign (resid 280 and name CG1) (resid 233 and name CD1)  3 1 1 ! VAL LEU
+assign (resid 265 and name CG1) (resid 236 and name NZ)  3 1 1 ! VAL LYS
+assign (resid 271 and name OH) (resid 249 and name CB)  3 1 1 ! TYR ALA
+assign (resid 260 and name CB) (resid 233 and name CD1)  3 1 1 ! ALA LEU
+assign (resid 280 and name CG1) (resid 231 and name CD1)  3 1 1 ! VAL LEU
+assign (resid 265 and name CG1) (resid 235 and name CA)  3 1 1 ! VAL GLY
+assign (resid 280 and name CG1) (resid 260 and name CB)  3 1 1 ! VAL ALA
+assign (resid 252 and name CB) (resid 229 and name OH)  3 1 1 ! ALA TYR
+assign (resid 265 and name CG1) (resid 250 and name CB)  3 1 1 ! VAL ALA
+assign (resid 240 and name CA) (resid 233 and name CD1)  3 1 1 ! GLY LEU
+assign (resid 252 and name CB) (resid 242 and name OG1)  3 1 1 ! ALA THR
+assign (resid 263 and name OD1) (resid 233 and name CD1)  3 1 1 ! ASN LEU
+assign (resid 267 and name CA) (resid 240 and name CA)  3 1 1 ! GLY GLY
+assign (resid 249 and name CB) (resid 229 and name OH)  3 1 1 ! ALA TYR
+assign (resid 282 and name OE1) (resid 265 and name CG1)  3 1 1 ! GLU VAL
+assign (resid 246 and name CB) (resid 229 and name OH)  3 1 1 ! ALA TYR
+assign (resid 252 and name CB) (resid 246 and name CB)  3 1 1 ! ALA ALA
+assign (resid 252 and name CB) (resid 240 and name CA)  3 1 1 ! ALA GLY
+assign (resid 252 and name CB) (resid 244 and name OG1)  3 1 1 ! ALA THR
+assign (resid 267 and name CA) (resid 233 and name CD1)  3 1 1 ! GLY LEU
+assign (resid 250 and name CB) (resid 234 and name OD1)  3 1 1 ! ALA ASN
+assign (resid 242 and name OG1) (resid 231 and name CD1)  3 1 1 ! THR LEU
+assign (resid 242 and name OG1) (resid 233 and name CD1)  3 1 1 ! THR LEU
+assign (resid 266 and name OD1) (resid 252 and name CB)  3 1 1 ! ASP ALA
+assign (resid 282 and name OE1) (resid 233 and name CD1)  3 1 1 ! GLU LEU
+assign (resid 259 and name OH) (resid 250 and name CB)  3 1 1 ! TYR ALA
+assign (resid 280 and name CG1) (resid 235 and name CA)  3 1 1 ! VAL GLY
+assign (resid 267 and name CA) (resid 242 and name OG1)  3 1 1 ! GLY THR
+assign (resid 260 and name CB) (resid 235 and name CA)  3 1 1 ! ALA GLY
+assign (resid 267 and name CA) (resid 234 and name OD1)  3 1 1 ! GLY ASN
+assign (resid 263 and name OD1) (resid 231 and name CD1)  3 1 1 ! ASN LEU
+assign (resid 241 and name OE1) (resid 233 and name CD1)  3 1 1 ! GLU LEU
+assign (resid 266 and name OD1) (resid 234 and name OD1)  3 1 1 ! ASP ASN
+assign (resid 281 and name OG1) (resid 267 and name CA)  3 1 1 ! THR GLY
+assign (resid 256 and name CZ) (resid 244 and name OG1)  3 1 1 ! PHE THR
+assign (resid 266 and name OD1) (resid 233 and name CD1)  3 1 1 ! ASP LEU
+assign (resid 263 and name OD1) (resid 235 and name CA)  3 1 1 ! ASN GLY
+assign (resid 260 and name CB) (resid 250 and name CB)  3 1 1 ! ALA ALA
+assign (resid 266 and name OD1) (resid 232 and name CD1)  3 1 1 ! ASP ILE
+assign (resid 282 and name OE1) (resid 237 and name OG1)  3 1 1 ! GLU THR
+assign (resid 282 and name OE1) (resid 238 and name CD1)  3 1 1 ! GLU LEU
+assign (resid 266 and name OD1) (resid 260 and name CB)  3 1 1 ! ASP ALA
+assign (resid 282 and name OE1) (resid 235 and name CA)  3 1 1 ! GLU GLY
+assign (resid 250 and name CB) (resid 233 and name CD1)  3 1 1 ! ALA LEU
+assign (resid 259 and name OH) (resid 240 and name CA)  3 1 1 ! TYR GLY
+assign (resid 276 and name NZ) (resid 261 and name OD1)  3 1 1 ! LYS ASN
+assign (resid 263 and name OD1) (resid 238 and name CD1)  3 1 1 ! ASN LEU
+assign (resid 278 and name CZ) (resid 229 and name OH)  3 1 1 ! PHE TYR
+assign (resid 267 and name CA) (resid 250 and name CB)  3 1 1 ! GLY ALA
+assign (resid 282 and name OE1) (resid 266 and name OD1)  3 1 1 ! GLU ASP
+assign (resid 228 and name N) (resid 245 and name O)  3 0.5 0.5 ! beta
+assign (resid 230 and name N) (resid 243 and name O)  3 0.5 0.5 ! beta
+assign (resid 232 and name N) (resid 241 and name O)  3 0.5 0.5 ! beta
+assign (resid 234 and name N) (resid 239 and name O)  3 0.5 0.5 ! beta
+assign (resid 228 and name O) (resid 245 and name N)  3 0.5 0.5 ! beta
+assign (resid 230 and name O) (resid 243 and name N)  3 0.5 0.5 ! beta
+assign (resid 232 and name O) (resid 241 and name N)  3 0.5 0.5 ! beta
+assign (resid 234 and name O) (resid 239 and name N)  3 0.5 0.5 ! beta
+assign (resid 231 and name N) (resid 277 and name O)  3 0.5 0.5 ! beta
+assign (resid 233 and name N) (resid 279 and name O)  3 0.5 0.5 ! beta
+assign (resid 235 and name N) (resid 281 and name O)  3 0.5 0.5 ! beta
+assign (resid 229 and name O) (resid 277 and name N)  3 0.5 0.5 ! beta
+assign (resid 231 and name O) (resid 279 and name N)  3 0.5 0.5 ! beta
+assign (resid 233 and name O) (resid 281 and name N)  3 0.5 0.5 ! beta
+assign (resid 268 and name N) (resid 282 and name O)  3 0.5 0.5 ! beta
+assign (resid 270 and name N) (resid 280 and name O)  3 0.5 0.5 ! beta
+assign (resid 272 and name N) (resid 278 and name O)  3 0.5 0.5 ! beta
+assign (resid 268 and name O) (resid 282 and name N)  3 0.5 0.5 ! beta
+assign (resid 270 and name O) (resid 280 and name N)  3 0.5 0.5 ! beta
+assign (resid 272 and name O) (resid 278 and name N)  3 0.5 0.5 ! beta
